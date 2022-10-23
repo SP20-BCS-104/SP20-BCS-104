@@ -1,0 +1,240 @@
+#body {
+
+    top: -25px;
+    position: relative;
+    overflow-x: hidden;
+    width: 1333px;
+    height: 1100px;
+    border: 0px solid white;
+}
+
+
+#a1 {
+    width: 1333px;
+    height: 62px;
+    background-color: rgba(138,115,80);
+    float: left;
+}
+
+
+#a2 {
+    width: 1313px;
+    height: 82px;
+    background-color: rgba(24,24,24);
+    float: left;
+    padding-right: 20px;
+}
+
+
+#a3 {
+    width: 1333px;
+    height: 86px;
+    background-color: rgb(206, 197, 197);
+    float: left;
+}
+
+#a4 {
+    width: 1333px;
+    height: 460px;
+    background-color: rgb(44, 26, 26);
+    float: left;
+}
+
+#img{
+
+    width: 1333px;
+    height: 460px ;
+}
+
+#a5 {
+    width: 1333px;
+    height: 33px;
+    background-color: white;
+    float: left;
+}
+
+#a6 {
+    width: 1333px;
+    height: 460px;
+    background-color: rgb(44, 26, 26);
+    float: left;
+}
+
+
+
+#a7 {
+    width: 1333px;
+    height: 285px;
+    background-color: white;
+    float: left;
+}
+
+#h11{
+    
+    position: relative;
+    top: 22px;
+    text-align: center;
+    font-size: 13px;
+    color: white; 
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#image{
+
+    position: relative;
+    width: 120px;
+    height: 70px ;
+    left: 18px ;
+    top: 10px;
+
+
+}
+
+#h12{
+
+    display: inline-flex;
+    list-style: none;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#h12 ul{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    color: white;
+   
+    position: relative;
+    bottom: 22px;
+}
+
+
+
+#searchBox {
+    height: 25px;
+    background-color: rgba(24,24,24);
+    border: 1px solid white ;
+    color: white;
+    float: right;
+    margin-top: 25px;
+    width:12%
+
+}
+
+#searchBox::placeholder {
+    color: white;
+
+}
+
+#h12 ul li{
+
+    width: 110px;
+    margin: 0 -15px;
+    padding: 5px;
+}
+
+#h13{
+    
+    position: relative;
+    top: 7px;
+    text-align: center;
+    font-size: 18px;
+    color: black; 
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#h14{
+    
+    position: relative;
+    top: 0px;
+    text-align: center;
+    font-size: 13px;
+    color: black; 
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#h15{
+    
+    position: relative;
+    top: -360px;
+    left: 63px;
+    font-size: 48px;
+    font-weight: 680;
+    font-stretch: extra-condensed;
+    color: white;
+    font-family: ui-sans-serif, system-ui, sans-serif;  
+}
+
+#h16{
+    
+    position: relative;
+    top: -395px;
+    left: 63px;
+    font-size: 26px;
+    font-weight: 400;
+    color: white;
+    font-family: ui-sans-serif, system-ui, sans-serif;  
+}
+
+
+#h17{
+    
+    position: relative;
+    top: 5px;
+    text-align: center;
+    font-size: 31px;
+    color: black;
+    font-weight: 650; 
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#h18{
+    
+    position: relative;
+    top: -6px;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    font-weight: 60; 
+    font-family: FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#h19{
+    
+    position: relative;
+    top: -360px;
+    left: 850px;
+    font-size: 44px;
+    font-weight: 680;
+    font-stretch: extra-condensed;
+    color: white;
+    font-family: ui-sans-serif, system-ui, sans-serif;  
+}
+
+#h20{
+    
+    position: relative;
+    top: -395px;
+    left: 1070px;
+    font-size: 26px;
+    font-weight: 400;
+    color: white;
+    font-family: ui-sans-serif, system-ui, sans-serif;  
+}
+
+#h21{
+    
+    position: relative;
+    top: -395px;
+    left: 65px;
+    font-size: 18px;
+    font-weight: 200px;
+    height: 35px;
+    color: white;
+    color: black;
+    font-family: ui-sans-serif, system-ui, sans-serif;  
+}

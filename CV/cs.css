@@ -1,0 +1,189 @@
+#body {
+
+    top: -25px;
+    position: relative;
+    overflow-x: hidden;
+    width: 1333px;
+    height: 1100px;
+    border: 0px solid white;
+
+
+}
+
+
+#a1 {
+    width: 350px;
+    height: 1400px;
+    background-color: #395b64;
+    float: left;
+
+}
+
+#a2 {
+    width: 983px;
+    height: 430px;
+    background-color: #395b64;
+    float: left;
+}
+
+#a11 {
+    position: relative;
+    top: 20px;
+    left: 40px;
+    font-size: 30px;
+    color: #2c3333;
+
+}
+
+#a12 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: #E7f6f2;
+}
+
+#a13 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: #E7f6f2;
+}
+
+#a14 {
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: #E7f6f2;
+}
+
+#image {
+    width: 350px;
+    height: 430px;
+
+
+}
+
+
+#h11 {
+
+    font-size: 60px;
+    position: relative;
+    top: 10px;
+    left: 40px;
+    color: #E7f6f2;
+
+
+}
+
+
+#h12 {
+
+    font-size: 28px;
+    position: relative;
+    top: -35px;
+    left: 45px;
+    float: left;
+    color: #2c3333;
+
+}
+
+#para {
+    width: 900px;
+    font-size: 20px;
+    position: relative;
+    top: 50px;
+    left: 45px;
+    text-align: justify;
+    float: left;
+    color: #E7f6f2;
+}
+
+#a3 {
+    background-color: #e7f6f2;
+    width: 1333px;
+    height: 1400px;
+
+}
+
+
+#b11 {
+    position: relative;
+    top: 48px;
+    left: 45px;
+    font-size: 30px;
+
+
+}
+
+#b12 {
+    position: relative;
+    top: 10px;
+    left: 45px;
+    color: #2c3333;
+    font-size: 22px;
+}
+
+#b13 {
+    position: relative;
+    top: 10px;
+    left: 45px;
+    color: #2c3333;
+    font-size: 22px;
+}
+
+#b14 {
+    position: relative;
+    top: 10px;
+    left: 45px;
+    color: #2c3333;
+    font-size: 22px;
+}
+
+#c11 {
+    position: relative;
+    top: 8px;
+    left: 45px;
+    color: #2c3333;
+    font-size: 15px;
+}
+
+#c12 {
+    position: relative;
+    top: -7px;
+    left: 45px;
+    color: #2c3333;
+    font-size: 15px;
+
+}
+
+#c13 {
+    position: relative;
+    top: -7px;
+    left: 45px;
+    color: #2c3333;
+    font-size: 15px;
+
+}
+
+
+
+
+
+
+
+#sm {
+    color: #36454F;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
